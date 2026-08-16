@@ -3,7 +3,7 @@
     "Identifier": "6fd90294-1335-41d2-988c-c1d4bb749588",
     "Version": {
         "Major": "0",
-        "Minor": "2",
+        "Minor": "3",
         "Patch": "0",
         "Build": "0"
     },
@@ -33,9 +33,9 @@
         "AltScreenshotURL": ""
     },
     "Installer": {
-        "URL": "https://github.com/theatrus/psf-guard-nina-plugin/releases/download/0.2.0.0/PsfGuard.Nina.Plugin.0.2.0.0.zip",
+        "URL": "https://github.com/theatrus/psf-guard-nina-plugin/releases/download/0.3.0.0/PsfGuard.Nina.Plugin.0.3.0.0.zip",
         "Type": "ARCHIVE",
-        "Checksum": "8274CDA3DAF26FDFAA27D521C50B3CF64CB49621CBF644E4EB08D17DF4B19456",
+        "Checksum": "FA998F54478C92D25D5D03B406ABD098D9FF9709101A0A61D11E995AA259D392",
         "ChecksumType": "SHA256"
     },
     "Channel": "Beta"
