@@ -28,7 +28,7 @@
     "Descriptions": {
         "ShortDescription": "Keeps a running N.I.N.A. Target Scheduler catalog in sync with PSF Guard.",
         "LongDescription": "Pushes Target Scheduler capture records to PSF Guard after image saves and supports explicit planning and grade synchronization in both directions.",
-        "FeaturedImageURL": "",
+        "FeaturedImageURL": "https://raw.githubusercontent.com/theatrus/psf-guard-nina-plugin/main/assets/psf-guard-sync.png",
         "ScreenshotURL": "",
         "AltScreenshotURL": ""
     },
